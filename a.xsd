@@ -45,8 +45,8 @@
     		<xs:restriction base="xs:string">
 
 
-    			<xs:pattern value="PRAK/MK+\d{2}/+[A-Z]+\d{3}"></xs:pattern>
-    			<xs:pattern value="TEO/MK+\d{2}/+[A-Z]+\d{3}"></xs:pattern>
+    			<xs:pattern value="PRAK/MK[0-9]{2}/[A-Z]{2}[0-9]{3}"></xs:pattern>
+    			<xs:pattern value="TEO/MK[0-9]{2}/[A-Z]{2}[0-9]{3}"></xs:pattern>
     		</xs:restriction>
     	</xs:simpleType>
     </xs:element>
