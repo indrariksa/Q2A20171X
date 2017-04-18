@@ -1,18 +1,8 @@
 # Q2A20171X
-soal kuis membuat schema **xsd**
+Indra Riksa Herlambang_1154051_D4TI2A
 
-Ikuti instruktur
+Soal kuis membuat schema xsd
 
-
-| elemen  | aturan |
-| ------------- | ------------- |
-| mk  | ?  |
-| dosen  | ?  |
-| type  | hanya boleh diisi essay/pilganda  |
-| kode | ?  |
-
-
-
-lakukan fork, commit push, pull request
+Ikuti instruktur, lakukan fork, commit push, pull request
 
 
